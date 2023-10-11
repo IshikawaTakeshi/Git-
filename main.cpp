@@ -3,7 +3,7 @@
 
 int main() {
 	std::cout << "Hello World\n";
-	std::cout << "LC1B_03_イシカワ_タケシ\n"
-
+	std::cout << "LC1B_03_イシカワ_タケシ\n";
+	std::cout << "2023/10/11\n";
 	return 0;
 }
