@@ -8,5 +8,6 @@ int main() {
 	std::cout << "player作成\n";
 	std::cout << "マーは\n";
 	std::cout << "マーは\n";
+	std::cout << "マーは\n";
 	return 0;
 }
