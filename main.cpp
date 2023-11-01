@@ -13,6 +13,7 @@ int main() {
 	std::cout << "マーは\n";
 
 	std::cout << "コンフリクトの作成\n";
+	std::cout << "コンフリクトの作成\n";
 
 	return 0;
 }
