@@ -12,8 +12,11 @@ int main() {
 	std::cout << "マーは\n";
 	std::cout << "マーは\n";
 
+	std::cout << "2023/11/1\n";
+
 	std::cout << "コンフリクトの作成\n";
 	std::cout << "コンフリクトの作成\n";
+	std::cout << "競合発生\n";
 
 
 	return 0;
